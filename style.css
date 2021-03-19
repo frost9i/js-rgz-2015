@@ -1,0 +1,17 @@
+body {background: #cce;}
+
+table {
+	border: 3px #45f;
+	border-style: solid;
+	
+}
+
+td {
+	border: 1px  solid;
+}
+
+input {
+	width: 60%;
+	height: 30px;
+
+}
